@@ -2,7 +2,7 @@
 
 # Set values for your Search service
 url="YOUR_SEARCH_URL"
-admin_key="YOUR_ADMIN_KEY"
+admin_key="YOUR_ADMIN_KEY" #to make index and indexer not query key
 
 echo "-----"
 echo "Updating the skillset..."

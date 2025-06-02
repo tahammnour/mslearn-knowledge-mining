@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# Set values for your storage account
-subscription_id="YOUR_SUBSCRIPTION_ID"
-azure_storage_account="YOUR_AZURE_STORAGE_ACCOUNT_NAME"
+subscription_id="YOUR_SUBSCRIPTION_ID" #from storage
+azure_storage_account="YOUR_AZURE_STORAGE_ACCOUNT_NAME" # when you create it
 azure_storage_key="YOUR_AZURE_STORAGE_KEY"
 
 echo "Creating container..."
